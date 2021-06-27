@@ -13,6 +13,16 @@ Reinforcement Learning papers on exploration methods.
 | #Exploration: A Study of Count-Based Exploration for Deep Reinforcement Learning | - | Tang et al. | 2016.11 | [[Paper]](https://arxiv.org/pdf/1611.04717.pdf) |
 | Count-Based Exploration with Neural Density Models | DQN-PixelCNN | Ostrovski et al. | 2017.03 | [[Paper]](https://arxiv.org/pdf/1703.01310.pdf) |
 
+## Novel behavior-based
+
+**Novel behavior-based** is a category of exploration methods that encourage the agent to perform novel behaviors. Behaviors are specified by application-specific behavior-characteristic. For eg. distance traveled or speed of agent.
+
+| Title | AKA | Author | Date | Links |
+| ----- | --- | ------ | ---- | ----- |
+| Improving Exploration in Evolution Strategies for Deep Reinforcement Learning via a Population of Novelty-Seeking Agents | NS-ES | Conti et al. | 2017.12 | [[Paper]](https://arxiv.org/pdf/1712.06560.pdf) |
+| Novelty-Guided Reinforcement Learning via Encoded Behaviors | - | Ramamurthy et al. | 2020.07 | [[Paper]](https://www.researchgate.net/publication/347020430_Novelty-Guided_Reinforcement_Learning_via_Encoded_Behaviors) |
+| Guided Reinforcement Learning via Sequence Learning | - | Ramamurthy et al. | 2020.10 | [[Paper]](https://www.researchgate.net/publication/346250289_Guided_Reinforcement_Learning_via_Sequence_Learning) |
+
 ## Curiosity
 
 **Curiosity-driven exploration** is a category of exploration methods that "generate an intrinsic reward signal based on how hard it is
